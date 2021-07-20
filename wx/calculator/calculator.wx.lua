@@ -1,6 +1,6 @@
 -------------------------------------------------------------------------=---
 -- Name:        Calculator.wx.lua
--- Purpose:     Calculator wxLua sample
+-- Purpose:     Calculator based on wxLua
 -- Author:      Zhi Liu
 --              Based on the wxWidgets sample by Marco Ghislanzoni
 -- Created:     January 2016
