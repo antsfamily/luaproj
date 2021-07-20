@@ -1,11 +1,11 @@
 -------------------------------------------------------------------------=---
 -- Name:        Calculator.wx.lua
 -- Purpose:     Calculator wxLua sample
--- Author:      J Winwood
+-- Author:      Zhi Liu
 --              Based on the wxWidgets sample by Marco Ghislanzoni
--- Created:     March 2002
--- Updated      January 2003 to use XML resources
--- Copyright:   (c) 2002-2003 Lomtick Software. All rights reserved.
+-- Created:     January 2016
+-- Updated      March 2016 to use XML resources
+-- Copyright:   
 -- Licence:     wxWidgets licence
 -------------------------------------------------------------------------=---
 
